@@ -1,6 +1,5 @@
 class testPageValues:
-    _base_page_title ='Смартфоны - купить смартфон: цены, отзывы, характеристики, продажа смартфонов в каталоге' \
-                      ' интернет-магазина СИТИЛИНК '
+    _base_page_title = 'Смартфоны - купить телефон в СИТИЛИНК - Обнинск'
 
     _min_value_name = "input-min"
     _max_Value_name = "input-max"
